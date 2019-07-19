@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'sample_gem'
+
+puts SampleGem.hello
